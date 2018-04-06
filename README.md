@@ -11,6 +11,8 @@ For adding a new program, make sure you follow these guidelines:
 
 Descriptions about code go here:
 
+* `pblas_matmul.cpp` :: A simple C++ program for mutliplying two matrices using PBLAS and BLACS (MPI).
+
 # Blog posts
 
 If you've written any blog posts about parallel topics, add them here:
