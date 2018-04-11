@@ -12,6 +12,7 @@ For adding a new program, make sure you follow these guidelines:
 Descriptions about code go here:
 
 * `pblas_matmul.cpp` :: A simple C++ program for mutliplying two matrices using PBLAS and BLACS (MPI).
+* `simple_scalapack_lu_decomposition.cpp` :: A simple C++ program for calculating distributed LU decomposition using ScaLAPACK.
 * `hpc_lecture` :: Code from Yokota Sensei's lecture 'HPC for Scientific Computing'. Contains many introductory codes using MPI, openMP, CUDA, etc.
 
 # Blog posts
